@@ -1,0 +1,154 @@
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\FinalGame.exe
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\FinalGame.pdb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\obj\x86\Debug\FinalGame.exe
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\obj\x86\Debug\FinalGame.pdb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\bomb.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\circle2.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\splashscreen_placeholder.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\tank.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\turret.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\bigImage.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\largerstill.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\something.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\iceicebaby.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\p.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\tank-custom.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\parachute.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Weapons\missile.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Weapons\nuke.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Weapons\railgun.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Weapons\DirtBomb.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Particle2.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\win_star_transparent.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Fonts\BerlandSansFBDemi.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\you_tried.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\black_strip.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\1400800.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\obj\x86\Debug\FinalGame.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\hud.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\hud2.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\p_original.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Sounds\snow_blowing.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\main_menu_pic.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\title.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\second_strip.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\level_1_icon.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\iconbackground.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\level1Shadow100A.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Instructions\Instructions.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\help_background.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\help_button.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\help_background_100A.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Instructions\help_background.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Instructions\instructions_transparency.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Instructions\Instructions_white.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Sounds\mainmenu_music.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Sounds\click.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Sounds\rlaunch.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Sounds\single_explosion.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Sounds\mutl_explosion.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Fonts\spriteFontBold.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Instructions\instructions_page_two.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\exit.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Pause\back.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Level2\level.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\level_2_icon.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\level_3_icon.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\achievements_icon.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\achievements_transparency.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\achievements_transparency_100A.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Level2\level2.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Sounds\dirt_bomb.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\missile-thumbnail.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Level3\moon.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Level3\background_parallax.xnb
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\SplashScreen\splash_screen.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\splashscreen_placeholder.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\bomb.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\circle2.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Level2\level.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\tank.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\turret.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\bigImage.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\largerstill.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\something.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\iceicebaby.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\p.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\tank-custom.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\parachute.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Weapons\DirtBomb.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Weapons\Nuke.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Weapons\RailGun.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Particle2.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\win_star_transparent.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\you_tried.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\black_strip.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\1400800.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\hud.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\hud2.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Weapons\Missile.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\p_original.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\main_menu_pic.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\title.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\second_strip.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\level_1_icon.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\iconbackground.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\level1Shadow100A.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Instructions\Instructions.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\help_background.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\help_button.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\help_background_100A.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Instructions\help_background.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Instructions\instructions_transparency.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Instructions\Instructions_white.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Instructions\instructions_page_two.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\exit.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Pause\back.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\level_2_icon.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\level_3_icon.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\achievements_icon.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\achievements_transparency.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\MainMenu\achievements_transparency_100A.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Level2\level2.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\missile-thumbnail.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Level3\moon.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\Level3\background_parallax.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Textures\SplashScreen\splash_screen.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Fonts\BerlandSansFBDemi.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Fonts\spriteFontBold.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Sounds\snow_blowing.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Sounds\mainmenu_music.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Sounds\click.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Sounds\rlaunch.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Sounds\single_explosion.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Sounds\mutl_explosion.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Content\Sounds\dirt_bomb.xnb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\FinalGame.exe
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\FinalGame.pdb
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\obj\x86\Debug\FinalGame.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\obj\x86\Debug\FinalGame.exe
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGame\obj\x86\Debug\FinalGame.pdb

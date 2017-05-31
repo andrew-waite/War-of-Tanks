@@ -1,0 +1,2 @@
+C:\Users\Andrew\Developer\Visual Studio 2015\FinalGame\FinalGame\FinalGameContent\obj\x86\Debug\FinalGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\FinalGame\FinalGame\FinalGameContent\obj\x86\Debug\FinalGameContent.contentprojResolveAssemblyReference.cache
